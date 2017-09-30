@@ -1,0 +1,6 @@
+<?
+$sSectionName = "динмический";
+$arDirProperties = Array(
+
+);
+?>

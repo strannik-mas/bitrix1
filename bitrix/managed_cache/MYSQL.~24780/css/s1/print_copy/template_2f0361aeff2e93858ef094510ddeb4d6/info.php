@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/bitrix/components/bitrix/map.google.system/templates/.default/style.css" => "186827706430","/bitrix/templates/print_copy/styles.css" => "1489661731729","/bitrix/templates/print_copy/template_styles.css" => "14896617311502",), 'CUR_SEL_CNT' => '32', 'CUR_IE_CNT' => '0'); ?>
